@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Jaquesecc/osticket-installation.git)  
 - <b>Microsoft Azure</b>
-  - [Creation of a Virtual Network and Virtual MAchine](https://github.com/Jaquesecc/azure-virtual-network.git)  
+  - [Creation of a Virtual Network and Virtual Machine](https://github.com/Jaquesecc/azure-virtual-network.git)  
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
