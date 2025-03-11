@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Jaquesecc/osticket-installation.git)  
+  - [Prerequisites and Installation](https://github.com/Jaquesecc/osticket-installation.git)  
 - <b>Microsoft Azure</b>
   - [Creation of a Virtual Network and Virtual Machine](https://github.com/Jaquesecc/azure-virtual-network.git)  
 <h2>🤳Connect with me:</h2>
