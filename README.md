@@ -5,14 +5,12 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Jaquesecc/osticket-installation.git)  
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
-
+  - [Creation of a Virtual Network and Virtual MAchine](https://github.com/Jaquesecc/azure-virtual-network.git)  
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
+
+
 [linkedin]: https://linkedin.com/in/jaquesewalker
